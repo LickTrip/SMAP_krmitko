@@ -1,3 +1,5 @@
-Automatické krmítko.
+AutomatickÃ© krmÃ­tko.
 
-Projekt se bude zabívat problematikou automatického krmítka pro domácího mazlíèka.V doporuèenıch èasopisech budou nalezeny èlánky, ve kterıch bude nalezen problém nynìjších krmítek. Projekt bude obsahovat návrh øešení, iplementaci a testování vyrobeného konceptu. Závìr se bude zabívat funkèností navrhovaného modelu.
+Projekt se bude zabÃ­vat problematikou automatickÃ©ho krmÃ­tka pro domÃ¡cÃ­ho mazlÃ­Äka.V doporuÄenÃ½ch Äasopisech budou nalezeny ÄlÃ¡nky, ve kterÃ½ch bude nalezen problÃ©m nynÄ›jÅ¡Ã­ch krmÃ­tek. Projekt bude obsahovat nÃ¡vrh Å™eÅ¡enÃ­, iplementaci a testovÃ¡nÃ­ vyrobenÃ©ho konceptu. ZÃ¡vÄ›r se bude zabÃ­vat funkÄnostÃ­ navrhovanÃ©ho modelu.
+
+Smart Å™eÅ¡enÃ­ je zaloÅ¾eno na zautomatizovÃ¡nÃ­ krmÃ­cÃ­ho pÅ™Ã­stroje pro domÃ¡cÃ­ mazlÃ­Äky, kterÃ© by mÄ›lo samo rozeznat Äas vhodnÃ½ pro poskytnutÃ­ novÃ© dÃ¡vky krmiva a toto krmivo zÃ¡roveÅˆ doplnit do misky domÃ¡cÃ­ho mazlÃ­Äka.
